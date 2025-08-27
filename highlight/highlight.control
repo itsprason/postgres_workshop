@@ -1,0 +1,5 @@
+# highlight.control
+
+comment = 'Extension to highlight text wrapped in <mark>'
+default_version = '1.0'
+relocatable = false

@@ -1,0 +1,4 @@
+# factorial_extension.control 
+comment = 'Extension to calculate factorial' 
+default_version = '1.0' 
+relocatable = false

@@ -1,0 +1,5 @@
+# audit_log.control
+comment = 'Extension to Log DML Events'
+default_version = '1.0'
+relocatable = false
+

@@ -1,0 +1,5 @@
+# reverse_string.control
+comment = 'Extension to reverse string'
+default_version = '1.0'
+relocatable = true
+
